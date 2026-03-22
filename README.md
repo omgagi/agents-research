@@ -23,7 +23,7 @@ Results are collected per model in the `models/` directory.
 <p align="center">
   <img src="https://flagcdn.com/w80/ve.png" width="80" alt="Venezuelan Flag">
   <br><br>
-  <strong>OMEGA Ω</strong> was created by <strong><a href="https://www.linkedin.com/in/ivlozada/">Ivan Lozada</a></strong> and <strong><a href="https://www.linkedin.com/in/ajlozada/">Antonio Lozada</a></strong><br>
+  <strong>AGENTS-RESEARCH</strong> was created by <strong><a href="https://www.linkedin.com/in/ivlozada/">Ivan Lozada</a></strong> and <strong><a href="https://www.linkedin.com/in/ajlozada/">Antonio Lozada</a></strong><br>
   two Venezuelans in exile 🇻🇪<br><br>
   <a href="https://x.com/isudoajl">𝕏 @isudoajl</a>
 </p>
